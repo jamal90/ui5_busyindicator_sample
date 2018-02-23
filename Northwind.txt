@@ -1,0 +1,10 @@
+#
+#Thu Feb 22 19:03:01 UTC 2018
+Type=HTTP
+Authentication=NoAuthentication
+WebIDEUsage=odata_gen
+Name=Northwind
+WebIDEEnabled=true
+ProxyType=Internet
+URL=http\://services.odata.org
+WebIDESystem=sap
